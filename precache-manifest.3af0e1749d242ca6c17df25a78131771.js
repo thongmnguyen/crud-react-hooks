@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0b1d60909430c99166aa3e80cd01ffa",
+    "revision": "e1ca78e4b2f6fee0c95f96aac4e72f20",
     "url": "/crud-react-hooks/index.html"
   },
   {
