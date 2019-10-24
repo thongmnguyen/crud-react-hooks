@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/crud-react-hooks/static/css/main.b7bfb6b0.chunk.css",
+    "main.js": "/crud-react-hooks/static/js/main.ed52fc45.chunk.js",
+    "main.js.map": "/crud-react-hooks/static/js/main.ed52fc45.chunk.js.map",
+    "runtime-main.js": "/crud-react-hooks/static/js/runtime-main.54c67b7a.js",
+    "runtime-main.js.map": "/crud-react-hooks/static/js/runtime-main.54c67b7a.js.map",
+    "static/js/2.e6f4febd.chunk.js": "/crud-react-hooks/static/js/2.e6f4febd.chunk.js",
+    "static/js/2.e6f4febd.chunk.js.map": "/crud-react-hooks/static/js/2.e6f4febd.chunk.js.map",
+    "index.html": "/crud-react-hooks/index.html",
+    "precache-manifest.0e9a52d47873d8c4f1571166ba57f81c.js": "/crud-react-hooks/precache-manifest.0e9a52d47873d8c4f1571166ba57f81c.js",
+    "service-worker.js": "/crud-react-hooks/service-worker.js",
+    "static/css/main.b7bfb6b0.chunk.css.map": "/crud-react-hooks/static/css/main.b7bfb6b0.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54c67b7a.js",
+    "static/js/2.e6f4febd.chunk.js",
+    "static/css/main.b7bfb6b0.chunk.css",
+    "static/js/main.ed52fc45.chunk.js"
+  ]
+}
